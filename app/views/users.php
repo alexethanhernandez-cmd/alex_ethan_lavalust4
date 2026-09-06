@@ -114,7 +114,7 @@
     <div class="container">
         <div class="header">
             <h1>Users</h1>
-            <span class="badge"><?= count($users) ?> total</span>
+            <span class="badge"><?= count($users) ?> Total</span>
         </div>
 
         <?php if (!empty($users)): ?>
