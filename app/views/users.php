@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Users</title>
+    <title>Users List</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
